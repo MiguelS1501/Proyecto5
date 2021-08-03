@@ -20,3 +20,5 @@ Resumiendo el contenido del Notebook:
 ![alt text](https://github.com/MiguelS1501/Proyecto5/blob/main/grafica1.PNG)
 
 ![alt text](https://github.com/MiguelS1501/Proyecto5/blob/main/grafica2.PNG)
+
+**Nota:** El procedimieto para obtener los resultados mostrados se encuentra en el archivo "P5.ipynb" junto con una descripcion y analisis más detallado.
