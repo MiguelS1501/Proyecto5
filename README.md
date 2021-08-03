@@ -1,8 +1,8 @@
 # Proyecto 5. Sistema M/M/s. 
 
-Nombre: Miguel Andrés Salazar Alvarado. 
+Nombre: **Miguel Andrés Salazar Alvarado**, Carné: **B97118**
 
-Carné: B97118.
+Nombre: **Jordy Cordero Montero**, Carné: **B72306**
 
 En el siguiente proyecto se hizo uso de la cadenas de Markov, las cuales se conocen como modelos de Markov o procesos de Markov. Este es un concepto desarrollado dentro de la teoría de la probabilidad y la estadística que establece una fuerte dependencia entre un evento y otro suceso anterior. Su principal utilidad es el análisis del comportamiento de procesos estocásticos. La siguiente imagen, muestra un ejemplo de esta definición:
 
@@ -17,4 +17,5 @@ Resumiendo el contenido del Notebook:
 
 # Resultados obtenidos:
 
-El respectivo análisis de los resultados y resultados se encuentran en el interior del documento "P5.ipynb". 
+![alt text](https://github.com/MiguelS1501/Proyecto5/blob/main/grafica1.PNG)
+![alt text](https://github.com/MiguelS1501/Proyecto5/blob/main/grafica2.PNG)
