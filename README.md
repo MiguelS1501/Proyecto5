@@ -18,4 +18,5 @@ Resumiendo el contenido del Notebook:
 # Resultados obtenidos:
 
 ![alt text](https://github.com/MiguelS1501/Proyecto5/blob/main/grafica1.PNG)
+
 ![alt text](https://github.com/MiguelS1501/Proyecto5/blob/main/grafica2.PNG)
